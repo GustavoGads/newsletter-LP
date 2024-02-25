@@ -8,7 +8,8 @@ Utilizei esses projeto com o intuito de aplicar responsividade nele. Utilizei as
   <dt>Sendo utilizado ⚙</dt>
   <dd>Display Flex</dd>
   <dd>Display Grid</dd>
-  <dd">Função "clamp()"</dd>
+  <dd">Função clamp()</dd>
+  <dd>media queries</dd>
 </dl>
 
 ##
