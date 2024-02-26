@@ -16,7 +16,7 @@ Utilizei esses projeto com o intuito de aplicar responsividade nele. Utilizei as
 ![Vídeo sem título ‐ Feito com o Clipchamp](https://github.com/GustavoGads/newsletter-LP/assets/72572484/6d3cd50a-a45a-434e-84b7-690974e1b80d)
 
 ## 👨‍💻 Tecnologias utilizadas
-Esse projeto foi desenvolvido durante o NLW da Rocktseat com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 
